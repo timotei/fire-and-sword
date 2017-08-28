@@ -1,0 +1,19 @@
+syntax: glob
+*.sdf
+*.suo
+*.opensdf
+*.vcxproj.user
+*.toc
+*.synctex.gz
+*.log
+*.out
+*.aux
+*.ncb
+*.user
+*.orig
+Debug/
+Release/
+ipch/
+Doxygen/
+skip/
+bin/

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="miniui::CButton">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Private" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QCoACAgAAAAAIFAAgAACEAAEkAAiAAIEAAAAAggQAAA=</HashCode>
+      <FileName>CButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="miniui::CEventListener">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CEventListener.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="miniui::CImage">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Private" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AEAEQAAAAAAAgAQAUAQBAQAAAAAAAAOAAAgACAEAQAA=</HashCode>
+      <FileName>CImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="miniui::CPoint">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>CPoint.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="miniui::CRect">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAQAAAAABAAAAAAQAEAAAAAAAAAAAAAQAhgAAAAACA=</HashCode>
+      <FileName>CRect.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="miniui::CRenderQueue">
+    <Position X="3.75" Y="4.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Private" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABIAAQAAAIAAABQAAA=</HashCode>
+      <FileName>CRenderQueue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="miniui::CTextRender">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Private" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIAQAAAAAAAAAACAAAAAAAAAAAAAAAIIAAAAAAQQAA=</HashCode>
+      <FileName>CTextRender.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="miniui::CTheme">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Private" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAEAABAhAAAAAAIAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>CTheme.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="miniui::CUiManager">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Private" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgICABBAARAgAAAQAAQABAAAAgBAAAQAAAAAAgAEAgA=</HashCode>
+      <FileName>CUiManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="miniui::CWidget">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Private" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AgCAAAAEAAAAABRAAQACAAAIAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>CWidget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="miniui::BUTTON_STATE">
+    <Position X="6.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAEAAACAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>CButton.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="miniui::FILL_DIRECTION">
+    <Position X="5.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>CImage.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="THEME_PARTS">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQABAAAAAAAAAAAAAIAAAEAAAAAAAEgAQAAAAAAA=</HashCode>
+      <FileName>CTheme.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

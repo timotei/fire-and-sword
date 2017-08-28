@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="Config">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Private" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Typedef Name="Config::string_map" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Config.hpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAoCIAASAAAQAQAAAAAAAQAAAAAQgAAAAAAA=</HashCode>
+      <FileName>Config.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Database">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Private" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAAACABACEAAAAACACAAACAAAAAACAQEAAAJAAAAAAA=</HashCode>
+      <FileName>Database.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TCPMessage">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="TCPMessage::message_type" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TCPMessage.hpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAACAAAAAAAAAAAABAAAAIAAwAAEAAAA=</HashCode>
+      <FileName>TCPMessage.hpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Matrix&lt;T&gt;">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAQAAAAAAAAAABEAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MMOTypes.hpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="CharacterClass">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgABAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>MMOTypes.hpp</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
